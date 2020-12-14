@@ -1,7 +1,7 @@
 # demo-qa-assignment
 Assignment project for Demo QA website
 
-##Steps
+## Steps
 1. Clone the demo-qa-Assignment to local folder.
 2. Open the demo-qa-assignment project Using Interlij.
 3. Navigate to the src->test->resources path and open the config.properties file.
